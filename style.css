@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+   
+}
+#header{
+    background-color: orange;
+    font-weight: bold;
+}
+.text{
+    background-color: rgb(216, 166, 166);
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+h4{ 
+    width: 65%;
+}
+
+
+#labeln{
+
+color: white;
+
+}
+#Identifier{
+    background-color: rgb(241, 159, 7);
+    border-color:rgb(255, 166, 0);
+    width: 26px;
+    height: 14px;
+    border-radius:4px;
+    border-width:2px;
+
+}
+canvas{
+border:2px solid white;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px white;
+}
